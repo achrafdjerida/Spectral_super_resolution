@@ -1,4 +1,4 @@
-# Spectral super-resolution 
+# Spectral super-resolution for remote sensing data 
 
 The repository contains the proposed deep learning model for spectral reconstruction using only RGB bands.
 
